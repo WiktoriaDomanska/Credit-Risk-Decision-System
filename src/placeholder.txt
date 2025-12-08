@@ -1,0 +1,1 @@
+Tutaj znajdzie się kod symulatora w Pythonie.
