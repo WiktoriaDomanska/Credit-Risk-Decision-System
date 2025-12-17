@@ -45,12 +45,12 @@ System podejmuje decyzje na podstawie punktacji. Wniosek jest akceptowany po prz
 ## Uruchamianie projektu
 Wymagany zainstalowany Python.
 
-1.  Pobierz repozytorium.
-2.  Zainstaluj bibliotekę pandas (jeśli nie masz):
+1.  Pobranie repozytorium.
+2.  Instalacja biblioteki pandas:
     ```bash
     pip install pandas
     ```
-3.  Uruchom skrypt główny:
+3.  Uruchomienie skryptu głównego:
     ```bash
     python src/main.py
     ```
